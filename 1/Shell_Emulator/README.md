@@ -52,7 +52,7 @@ pytest -v test.py
 ## ls
 ![](https://github.com/Yan4ikNya/ConfUwUpr/1/Shell_Emulator/ls.png)
 ## cd
-![](https://github.com/ConfUwUpr/1/Shell_Emulator/cd.png)
+![](https://github.com/Yan4iknya/ConfUwUpr/1/Shell_Emulator/cd.png)
 ## exit
 ![](https://github.com/DrTECHNIC/Shell_Emulator/blob/main/exit.gif)
 ## touch

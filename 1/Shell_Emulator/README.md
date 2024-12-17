@@ -15,7 +15,7 @@
 # Установка
 Перед началом работы с программой требуется скачать репозиторий и необходимую библиотеку для тестов. Для этого можно воспользоваться командами ниже.
 ```Bash
-git clone https://github.com/DrTECHNIC/Shell_Emulator
+git clone https://github.com/Yan4ikNya/Shell_Emulator
 ```
 ```Bash
 pip install -U pytest
@@ -50,9 +50,9 @@ pytest -v test.py
 
 # Тесты
 ## ls
-![](https://github.com/DrTECHNIC/Shell_Emulator/blob/main/ls.png)
+![](https://github.com/Yan4ikNya/ConfUwUpr/1/Shell_Emulator/ls.png)
 ## cd
-![](https://github.com/DrTECHNIC/Shell_Emulator/blob/main/cd.png)
+![](https://github.com/ConfUwUpr/1/Shell_Emulator/cd.png)
 ## exit
 ![](https://github.com/DrTECHNIC/Shell_Emulator/blob/main/exit.gif)
 ## touch

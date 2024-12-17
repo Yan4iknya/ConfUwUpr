@@ -50,7 +50,7 @@ pytest -v test.py
 
 # Тесты
 ## ls
-![](https://github.com/Yan4ikNya/ConfUwUpr/1/Shell_Emulator/ls.png)
+![](https://github.com/Yan4ikNya/ConfUwUpr/1/Shell_Emulator/blob/main/ls.png)
 ## cd
 ![](https://github.com/Yan4iknya/ConfUwUpr/1/Shell_Emulator/cd.png)
 ## exit

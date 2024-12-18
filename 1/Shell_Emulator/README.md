@@ -53,8 +53,6 @@ pytest -v test.py
 ![](https://github.com/Yan4iknya/ConfUwUpr/blob/main/1/Shell_Emulator/ls.PNG)
 ## cd
 ![](https://github.com/Yan4iknya/ConfUwUpr/1/Shell_Emulator/cd.png)
-## exit
-![](https://github.com/DrTECHNIC/Shell_Emulator/blob/main/exit.gif)
 ## touch
 ![](https://github.com/DrTECHNIC/Shell_Emulator/blob/main/tou%D1%81%D1%80.png)
 ## cat

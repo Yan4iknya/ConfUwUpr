@@ -53,9 +53,11 @@ pytest -v test.py
 ![](https://github.com/Yan4iknya/ConfUwUpr/blob/main/1/Shell_Emulator/ls.PNG)
 ## cd
 ![](https://github.com/Yan4iknya/ConfUwUpr/blob/main/1/Shell_Emulator/cd.PNG)
-## touch
-![](https://github.com/DrTECHNIC/Shell_Emulator/blob/main/tou%D1%81%D1%80.png)
-## cat
-![](https://github.com/DrTECHNIC/Shell_Emulator/blob/main/cat.png)
+## tail
+![](https://github.com/Yan4iknya/ConfUwUpr/blob/main/1/Shell_Emulator/tail.PNG)
+## chown
+![](https://github.com/Yan4iknya/ConfUwUpr/blob/main/1/Shell_Emulator/chown.PNG)
+## find
+![](https://github.com/Yan4iknya/ConfUwUpr/blob/main/1/Shell_Emulator/find.PNG)
 ## Общие тесты через pytest
-![](https://github.com/DrTECHNIC/Shell_Emulator/blob/main/pytest.png)
+![]![](https://github.com/Yan4iknya/ConfUwUpr/blob/main/1/Shell_Emulator/test.PNG)
